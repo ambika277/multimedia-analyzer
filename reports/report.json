@@ -1,0 +1,25 @@
+{
+    "type": "video",
+    "file_name": "video.mp4",
+    "file_size": "96.37 MB",
+    "container": "mov,mp4,m4a,3gp,3g2,mj2",
+    "duration": "00:01:37",
+    "video": {
+        "resolution": "1920 x 1020",
+        "frame_rate": "30.0 FPS",
+        "bit_rate": "8139 kbps",
+        "codec": "h264"
+    },
+    "audio": {
+        "codec": "aac",
+        "channels": 2,
+        "sampling_rate": "48000 Hz",
+        "bit_rate": "192 kbps"
+    },
+    "metadata": {
+        "major_brand": "mp42",
+        "minor_version": "0",
+        "compatible_brands": "mp41isom",
+        "creation_time": "2026-07-10T09:42:49.000000Z"
+    }
+}
